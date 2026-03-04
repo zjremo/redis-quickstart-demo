@@ -29,5 +29,8 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
+### maven ###
+mvnw*
+
 ### VS Code ###
 .vscode/
